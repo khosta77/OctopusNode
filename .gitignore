@@ -1,0 +1,11 @@
+*-backups
+*.bak
+*-bak
+*.tmp
+*.cache
+*.kicad_dbl
+*.kicad_wks
+fp-info-cache
+fp-lib-table
+
+.DS_Store
